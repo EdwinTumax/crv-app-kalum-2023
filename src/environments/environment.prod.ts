@@ -1,4 +1,4 @@
 export const environment = {
     production: true,
-    base_url: "http://localhost:5064/kalum-management/v1"
+    base_url: "https://localhost:7171/kalum-management/v1"
 }
